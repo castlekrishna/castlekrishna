@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Krishna
 
-<!--
-**castlekrishna/castlekrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student  
+C | Python | Git | Linux  
+Interested in Systems & AI  
 
-Here are some ideas to get you started:
+### Projects
+- College Management System (C, Modular)
+- Practice Repos: Arrays, Strings, Pointers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Strengthening C fundamentals
+- Building long-term projects step by step
