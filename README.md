@@ -5,7 +5,7 @@ I prefer structured, modular code and long-term projects over short demos.
 
 ### Skills
 - C (modular programming, file handling, structures)
-- Python (basics, scripting)
+- Python (building logic)
 - Git & GitHub
 - Linux fundamentals
 
@@ -15,7 +15,7 @@ I prefer structured, modular code and long-term projects over short demos.
 - Python Mini Programs
 
 ### Currently Working On
-- ARMS (multi-file C project)
+- Python
 - Writing clean, maintainable C code
 - Improving collaboration workflows with Git
 
