@@ -56,13 +56,15 @@ A command-line academic management platform engineered to handle structured data
 
 ### Activity Metrics
 
+### Activity Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=castlekrishna&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=castlekrishna&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=castlekrishna&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=castlekrishna&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=castlekrishna&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=castlekrishna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
