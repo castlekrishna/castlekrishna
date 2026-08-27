@@ -54,9 +54,7 @@ A command-line academic management platform engineered to handle structured data
 
 ---
 
-### Activity Metrics
 
-### Activity Metrics
 
 ### Activity Metrics
 
